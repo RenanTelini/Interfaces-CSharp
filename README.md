@@ -39,3 +39,25 @@ INVOICE:<br>
 Basic payment: 390.00<br>
 Tax: 58.50<br>
 Total payment: 448.50
+
+### <ins>Interface - Exercise01</ins>
+
+#### A company wants to automate the processing of its contracts. Processing a contract consists of generating the installments to be paid for that contract, based on the desired number of months.
+
+#### The company uses an online payment service to process the installment payments. Online payment services typically charge monthly interest as well as a fee per payment. For now, the payment service contracted by the company is PayPal, which applies simple interest of 1% per installment, plus a payment fee of 2%.
+
+#### Develop a program to read the contract data (contract number, contract date, and total contract amount). Then, the program should read the number of months for the installment plan and generate the installment records to be paid (date and amount). The first installment must be paid one month after the contract date, the second installment two months after the contract date, and so on.
+
+#### Finally, display the installment data on the screen.
+
+#### Example:
+
+Enter contract data<br>
+Number: <strong>8028</strong><br>
+Date (dd/MM/yyyy): <strong>25/06/2018</strong><br>
+Contract value: <strong>600.00</strong><br>
+Enter number of installments: <strong>3</strong><br>
+Installments:<br>
+25/07/2018 - 206.04<br>
+25/08/2018 - 208.08<br>
+25/09/2018 - 210.12
