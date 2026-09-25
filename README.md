@@ -61,3 +61,15 @@ Installments:<br>
 25/07/2018 - 206.04<br>
 25/08/2018 - 208.08<br>
 25/09/2018 - 210.12
+
+### <ins>Interface with Abstract Inheritance</ins>
+
+#### Similarities Bethween Interfaces and Inheritance:
+
+#### Is-a relationship
+#### Generalization/specialization
+#### Polymorphism
+
+#### Inheritance and Interfaces can be used together in the same project, allowing you to have both generic and specialized objects. See the example UML diagram below:
+
+<img src="InterfaceWithAbstractInheritance\Imagens\InterfaceWithAbstractInheritance-UML.png" alt="Interface with Abstract Inheritance - UML">
