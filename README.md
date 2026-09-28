@@ -73,3 +73,19 @@ Installments:<br>
 #### Inheritance and Interfaces can be used together in the same project, allowing you to have both generic and specialized objects. See the example UML diagram below:
 
 <img src="Imagens\InterfaceWithAbstractInheritance-UML.png" alt="Interface with Abstract Inheritance - UML">
+
+### <ins>Diamond Problem</ins>
+
+#### Multiple inheritance can lead to the diamond problem: an ambiguity caused by the existence of the same method in more than one superclass.
+
+#### <strong>Multiple inheritance is not supported by most programming languages!</strong>
+
+#### However, a class (or struct) can implement more than one interface.
+
+#### Diamond Problem - Incorrect Design:
+
+<img src="Imagens\Diamond Problem - Incorrect Design.png" alt="Incorrect Design">
+
+#### Diamond Problem - Correct Design:
+
+<img src="Imagens\Diamond Problem - Correct Design.png" alt="Correct Design">
