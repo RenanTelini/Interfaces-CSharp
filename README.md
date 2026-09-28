@@ -89,3 +89,9 @@ Installments:<br>
 #### Diamond Problem - Correct Design:
 
 <img src="Imagens\Diamond Problem - Correct Design.png" alt="Correct Design">
+
+### <ins>Problem without Interface IComparable</ins>
+
+#### Write a program that reads a file containing people's names (one name per line) and stores them in a list, sort the data in the list and display the names in sorted order on the screen.
+
+#### Note: The file path can be hardcoded.
