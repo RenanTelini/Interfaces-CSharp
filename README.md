@@ -95,3 +95,7 @@ Installments:<br>
 #### Write a program that reads a file containing people's names (one name per line) and stores them in a list, sort the data in the list and display the names in sorted order on the screen.
 
 #### Note: The file path can be hardcoded.
+
+### <ins>Problem with Interface IComparable</ins>
+
+#### Write a program that reads a .csv file containing employees (name and salary) and stores them in a list. Then, sort the list by name and display the result on the screen. Note: The file path can be hardcoded.
